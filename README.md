@@ -1,2 +1,9 @@
 # fuzzy_larsen
 DEVELOPING A FUZZY LOGIC SYSTEM FOR BANK OFFICERS THAT DETERMINES THE AMOUNT OF HOUSING CREDIT FOR AN APPLICANT USING LARSEN INFERENCE METHOD
+
+1. Market Value of the House:
+
+
+![image](https://user-images.githubusercontent.com/37450251/132398075-2ff6b96f-ad6a-4d85-9db6-7b54929c5c7e.png)
+
+
